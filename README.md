@@ -1,1 +1,1 @@
-# Zero-shot Fine-Grained Image Classification using Large Vision-Language Models (EMNLP 2025)
+# Zero-shot Fine-Grained Image Classification Using Large Vision-Language Models (EMNLP 2025)
