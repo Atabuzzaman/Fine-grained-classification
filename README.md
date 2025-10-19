@@ -17,3 +17,4 @@ tokenizer, model, image_processor, context_len = load_pretrained_model(
     model_path, None, model_name, device_map=device, device=device, attn_implementation='eager',
 )
 ```
+We will also release the remaining code and datasets as soon as possible.
